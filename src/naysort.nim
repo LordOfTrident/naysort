@@ -199,7 +199,7 @@ proc render() =
                 ray.drawText((&"Sort time (ms): {formatted}").cstring, 10, 10, 30, fgColor)
 
     of StateRandomizing:
-        ray.drawText("Randomizing...", 10, 10, 30, fgColor)
+        ray.drawText("randomizing...", 10, 10, 30, fgColor)
 
     of StateSorting:
         ray.drawText("sorting...", 10, 10, 30, fgColor)
