@@ -20,7 +20,7 @@
 	<p align="center">📊 Sorting visualization using Nim and Raylib 📈</p>
 	<p align="center">
 		<a href="#demo">View Demo</a>
-		.
+		·
 		<a href="https://github.com/LordOfTrident/naysort/issues">Report Bug</a>
 		·
 		<a href="https://github.com/LordOfTrident/naysort/issues">Request Feature</a>
